@@ -20,6 +20,6 @@ conda install notebook ipykernel
 ipython kernel install --user --name amllabs --display-name "Python 3.8.3 (amllabs)"
 
 ## Launch Jupyter Notebook
-cd "<DIRECTORY PATH WHERE THE REPO IS CLONED>"
+cd "DIRECTORY PATH WHERE THE REPO IS CLONED"
 conda activate amllabs
 jupyter notebook
