@@ -19,6 +19,9 @@ conda install notebook ipykernel
 
 ipython kernel install --user --name amllabs --display-name "Python 3.8.3 (amllabs)"
 
+## Cloning the repo
+git clone "https://github.com/MaheshSQL/AzureMLWorkshop.git"
+
 ## Launch Jupyter Notebook
 cd "DIRECTORY PATH WHERE THE REPO IS CLONED"
 
