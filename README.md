@@ -3,7 +3,9 @@ Azure ML Workshop Labs created as Jupyter Notebooks.
 
 ## Pre-requisite 
 
-Jupyter Notebook installed - https://www.anaconda.com/products/individual
+Install Jupyter Notebook (if not already done)
+
+https://www.anaconda.com/products/individual
 
 ## Install new Conda Environment and Install Azure ML SDK
 
