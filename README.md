@@ -1,5 +1,5 @@
 # AzureMLWorkshop
-Azure ML Workshop Labs created as Jupyter Notebooks
+Azure ML Workshop Labs created as Jupyter Notebooks.
 
 ## Pre-requisite 
 
@@ -21,5 +21,7 @@ ipython kernel install --user --name amllabs --display-name "Python 3.8.3 (amlla
 
 ## Launch Jupyter Notebook
 cd "DIRECTORY PATH WHERE THE REPO IS CLONED"
+
 conda activate amllabs
+
 jupyter notebook
