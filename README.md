@@ -1,4 +1,4 @@
-# AzureMLWorkshop
+# Azure ML Workshop
 Azure ML Workshop Labs created as Jupyter Notebooks.
 
 - The batch files are built on Windows platform.
