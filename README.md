@@ -1,6 +1,10 @@
 # AzureMLWorkshop
 Azure ML Workshop Labs created as Jupyter Notebooks.
 
+The batch files ate built on Windows platform.
+
+Please change the path in Launch Jupyter Notebook Batch.bat to directory where you have cloned this repo.
+
 ## Pre-requisite 
 
 Install Jupyter Notebook (if not already done)
