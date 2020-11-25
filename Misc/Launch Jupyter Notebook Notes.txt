@@ -1,0 +1,5 @@
+#Open Anaconda command prompt
+
+conda activate amllabs
+cd "C:\Azure ML Labs"
+jupyter notebook

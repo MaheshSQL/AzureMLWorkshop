@@ -1,0 +1,11 @@
+Lab1
+https://automlsamplenotebookdata.blob.core.windows.net/automl-sample-notebook-data/bankmarketing_train.csv
+
+Lab2
+https://archive.ics.uci.edu/ml/datasets/Automobile
+
+Lab3
+https://archive.ics.uci.edu/ml/datasets/iris (Training script is using dataset from scikit-learn library)
+
+Lab4
+https://github.com/Azure/azureml-sdk-for-r/blob/master/vignettes/train-and-deploy-first-model/nassCDS.csv
