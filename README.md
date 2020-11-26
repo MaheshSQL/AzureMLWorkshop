@@ -7,6 +7,7 @@ Azure ML Workshop Labs created as Jupyter Notebooks.
 
 ## Pre-requisites 
 - Provision Azure Machine Learning Workspace
+
   https://docs.microsoft.com/en-us/azure/machine-learning/how-to-manage-workspace?tabs=azure-portal#create-a-workspace
   
 - Install Jupyter Notebook (if not already done)
