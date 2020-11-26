@@ -5,11 +5,13 @@ Azure ML Workshop Labs created as Jupyter Notebooks.
 
 - Please change the path in "Launch Jupyter Notebook Batch.bat" file to directory where you have cloned this repo.
 
-## Pre-requisite 
+## Pre-requisites 
+- Provision Azure Machine Learning Workspace
+  https://docs.microsoft.com/en-us/azure/machine-learning/how-to-manage-workspace?tabs=azure-portal#create-a-workspace
+  
+- Install Jupyter Notebook (if not already done)
 
-Install Jupyter Notebook (if not already done)
-
-https://www.anaconda.com/products/individual
+  https://www.anaconda.com/products/individual
 
 ## Install new Conda Environment and Install Azure ML SDK
 
