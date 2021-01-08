@@ -24,7 +24,9 @@ This is required to have the datasets locally available for the labs.
 - Click Code -> Download ZIP
 
 ### Provisioning the Compute for the labs
-- Please refer to Lab-00. Ideally resources should be created not more than a day before the workshop.
+- Please refer to Lab-00. 
+Ideally resources should be created not more than a day before the workshop.
+Alternatively, compute can be provisoned before starting the labs.
 
 ### Clean-up (Post workshop)
 Please delete the resource group including all resources within it after finishing the workshop/labs.
