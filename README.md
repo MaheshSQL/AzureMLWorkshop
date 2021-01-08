@@ -1,4 +1,4 @@
-# Azure ML Workshop
+# Azure ML Workshop - When using Azure Data Science VM
 Azure ML Workshop Labs created as Jupyter Notebooks.
 
 - The batch files are built on Windows platform.
