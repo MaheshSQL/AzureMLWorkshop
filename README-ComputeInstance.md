@@ -1,4 +1,4 @@
-# Azure ML Workshop - When using Compute Instance
+# Azure ML Workshop - Compute Instance
 
 ## Pre-requisites 
 
