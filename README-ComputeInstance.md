@@ -25,6 +25,7 @@ This is required to have the datasets locally available for the labs.
 
 ### Provisioning the Compute for the labs
 - Please refer to Lab-00. 
+
 Ideally resources should be created not more than a day before the workshop.
 Alternatively, compute can be provisoned before starting the labs.
 
