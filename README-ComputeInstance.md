@@ -19,10 +19,7 @@
   - Please keep the default options selected for remaining settings and click 'Create' on 'Review & Create' tab.
   
 ### Provisioning the Compute for the labs
+- We shall provision the compute as the pre-lab activity during the Workshop.
 
-### Cloning the repo
-
-git clone "https://github.com/MaheshSQL/AzureMLWorkshop.git"
-
-### Clean-up
-Please delete the resource group after finishing the labs.
+### Clean-up (Post workshop)
+Please delete the resource group after finishing the workshop/labs.
