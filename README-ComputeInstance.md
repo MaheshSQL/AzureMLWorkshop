@@ -17,9 +17,14 @@
   - On 'Networking' tab, please select 'Public endpoint (all networks)' as this is a labs environment.
   
   - Please keep the default options selected for remaining settings and click 'Create' on 'Review & Create' tab.
-  
+
+### Download this repository
+This is required to have the datasets locally available for the labs.
+
+Code -> Download as zip
+
 ### Provisioning the Compute for the labs
-- We shall provision the compute as the pre-lab activity during the Workshop.
+- Please refer to Lab-00. Ideally resources should be created not more than a day before the workshop.
 
 ### Clean-up (Post workshop)
-Please delete the resource group after finishing the workshop/labs.
+Please delete the resource group including all resources within it after finishing the workshop/labs.
