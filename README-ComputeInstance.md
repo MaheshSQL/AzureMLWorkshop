@@ -20,8 +20,8 @@
 
 ### Download this repository
 This is required to have the datasets locally available for the labs.
-
-Code -> Download as zip
+- Go to https://github.com/MaheshSQL/AzureMLWorkshop
+- Click Code -> Download ZIP
 
 ### Provisioning the Compute for the labs
 - Please refer to Lab-00. Ideally resources should be created not more than a day before the workshop.
