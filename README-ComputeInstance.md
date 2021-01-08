@@ -1,39 +1,28 @@
 # Azure ML Workshop - When using Compute Instance
-Azure ML Workshop Labs created as Jupyter Notebooks.
-
-- The batch files are built on Windows platform.
-
-- Please change the path in "Launch Jupyter Notebook Batch.bat" file to directory where you have cloned this repo.
 
 ## Pre-requisites 
-- Provision Azure Machine Learning Workspace
+
+### Provision Azure ML Workspace within a new Azure Resource Group
+
+- Login to https://portal.azure.com/ (Assuming you have an Azure Subscription that you can use for the labs).
+
+- Provision Azure Machine Learning Workspace (Please follow instructions on below link and refer suggestions below to help you choose right configuration options).
 
   https://docs.microsoft.com/en-us/azure/machine-learning/how-to-manage-workspace?tabs=azure-portal#create-a-workspace
   
-- Install Jupyter Notebook (if not already done)
+  - On 'Basics' tab, please click 'Create new' link below the 'Resource group' drop-down list and enter the name of new Resource Group whithin which the new workspace will be provisioned.
+  
+  - On 'Basics' tabs, please enter name of workspace e.g. aml-labs-workspace
+  
+  - On 'Networking' tab, please select 'Public endpoint (all networks)' as this is a labs environment.
+  
+  - Please keep the default options selected for remaining settings and click 'Create' on 'Review & Create' tab.
+  
+### Provisioning the Compute for the labs
 
-  https://www.anaconda.com/products/individual
+### Cloning the repo
 
-## Install new Conda Environment and Install Azure ML SDK
-
-conda create --name amllabs python==3.8.3
-
-conda update -n base -c defaults conda
-
-conda activate amllabs
-
-pip install azureml-sdk
-
-conda install notebook ipykernel
-
-ipython kernel install --user --name amllabs --display-name "Python 3.8.3 (amllabs)"
-
-## Cloning the repo
 git clone "https://github.com/MaheshSQL/AzureMLWorkshop.git"
 
-## Launch Jupyter Notebook
-cd "DIRECTORY PATH WHERE THE REPO IS CLONED"
-
-conda activate amllabs
-
-jupyter notebook
+### Clean-up
+Please delete the resource group after finishing the labs.
