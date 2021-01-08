@@ -4,7 +4,7 @@
 
 ### Provision Azure ML Workspace within a new Azure Resource Group
 
-- Login to https://portal.azure.com/ (Assuming you have an Azure Subscription that you can use for the labs).
+- Login to https://portal.azure.com (Assuming you have an Azure Subscription that you can use for the labs).
 
 - Provision Azure Machine Learning Workspace (Please follow instructions on below link and refer suggestions below to help you choose right configuration options).
 
