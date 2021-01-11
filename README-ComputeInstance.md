@@ -25,7 +25,7 @@ This is required to have the datasets locally available for the labs.
 - Unzip the downloaded file
 
 ### Provisioning the Compute for the labs
-- Please refer to instructions in Lab-00. 
+- Please refer to instructions in Lab-00 directory/lab in this repository. 
 
 Ideally resources should be created not more than a day before the workshop.
 Alternatively, compute can be provisoned before starting the labs.
